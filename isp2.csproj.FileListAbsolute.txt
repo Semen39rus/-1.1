@@ -1,0 +1,13 @@
+C:\Users\semac\source\repos\isp2\isp2\bin\Debug\netcoreapp3.1\isp2.exe
+C:\Users\semac\source\repos\isp2\isp2\bin\Debug\netcoreapp3.1\isp2.deps.json
+C:\Users\semac\source\repos\isp2\isp2\bin\Debug\netcoreapp3.1\isp2.runtimeconfig.json
+C:\Users\semac\source\repos\isp2\isp2\bin\Debug\netcoreapp3.1\isp2.runtimeconfig.dev.json
+C:\Users\semac\source\repos\isp2\isp2\bin\Debug\netcoreapp3.1\isp2.dll
+C:\Users\semac\source\repos\isp2\isp2\bin\Debug\netcoreapp3.1\isp2.pdb
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.csprojAssemblyReference.cache
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.AssemblyInfoInputs.cache
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.AssemblyInfo.cs
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.csproj.CoreCompileInputs.cache
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.dll
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.pdb
+C:\Users\semac\source\repos\isp2\isp2\obj\Debug\netcoreapp3.1\isp2.genruntimeconfig.cache
